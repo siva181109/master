@@ -1,0 +1,847 @@
+Title,Custom Category
+Impact Notification-Planned | Canceled | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+Impact Notification-Planned | Initial | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+Impact Notification-Planned | Initial | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+Impact Notification-Planned | Initial | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+Impact Notification-Planned | Initial | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+Impact Notification-Planned | Mitigation | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+Impact Notification-Planned | Update | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+Impact Notification-Planned | Mitigation | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+Impact Notification-Planned | Update | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+Impact Notification-Unplanned | Initial | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+Impact Notification-Unplanned | Initial | CFE (Corp Functions Engineering) | Finance | Tax Data Warehouse,Important Notifications or Meet
+Impact Notification-Unplanned | Mitigation | CFE (Corp Functions Engineering) | Finance | Tax Data Warehouse,Important Notifications or Meet
+FW: Impact Notification-Planned | Initial | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+FW: Impact Notification-Planned | Update | CFE (Corp Functions Engineering) | Finance | OneTax,Important Notifications or Meet
+Bugs Triage meeting,Important Notifications or Meet
+Canceled: OneTax and TAP triage call #1902,Important Notifications or Meet
+Canceled: OneTax and TAP triage call #1902,Important Notifications or Meet
+Onetax and TAP Sprint 1902-1 and 1902-2 UAT Deployment,Important Notifications or Meet
+OneTax and TAP triage call,Important Notifications or Meet
+OneTax and TAP triage call,Important Notifications or Meet
+OneTax and TAP triage call : Sprint 1903-2,Important Notifications or Meet
+OneTax and TAP triage call Sprint 1903-2,Important Notifications or Meet
+OneTax and TAP Triage meeting,Important Notifications or Meet
+Onetax Indirect Tax data issue 201903,Important Notifications or Meet
+OneTax Triage,Important Notifications or Meet
+OneTax Triage,Important Notifications or Meet
+Shivani OOF on 11th March,Important Notifications or Meet
+Sprint 1902 UAT deployment,Important Notifications or Meet
+Sprint 1902-2 Patch 3,Important Notifications or Meet
+Sprint 1903 UAT deployment review,Important Notifications or Meet
+Sprint 1903-2 Triage,Important Notifications or Meet
+TAP Sprint#1902 UAT Deployment Review,Important Notifications or Meet
+TAP & OneTax 1902-1 and 1902-2  PROD deployment game plan review,Important Notifications or Meet
+Databrick Test Automation walk through,Important Notifications or Meet
+Databricks and test automation walk through,Important Notifications or Meet
+FW: TAP & OneTax 1901-1 and 1901-2 PROD deployment game plan review,Important Notifications or Meet
+FW: Update: UST Testing Walkthrough,Important Notifications or Meet
+Need bacpac of dbTapMeta (UAT),One Tax Data request or updates
+Need Data from Prod,One Tax Data request or updates
+Need data from PROD ,One Tax Data request or updates
+need data of Query from Prod,One Tax Data request or updates
+Need help,One Tax Data request or updates
+Need msrmetadata database backup,One Tax Data request or updates
+Need ReImported Source Files from UAT for Testing,One Tax Data request or updates
+Need the GST extract from OneTax Prod- 2018-07,One Tax Data request or updates
+Need to check which tables still exists in UAT,One Tax Data request or updates
+Need UST Telco V1 and V2 files for January month,One Tax Data request or updates
+Need Vertex Source File from UAT For Testing,One Tax Data request or updates
+Need vwUserAuditLog data from TAP UAT,One Tax Data request or updates
+Please check below tables in TAP UAT,One Tax Data request or updates
+Please generate MSRA UAT report for mentioned criteria,One Tax Data request or updates
+Please provide access for Shared Location,One Tax Data request or updates
+Please provide data from Mart.IndirectFactORC from TAP UAT,One Tax Data request or updates
+Please run the below query in TAP PROD and share me the results,One Tax Data request or updates
+Please run the below scripts to create the tables in TAP UAT,One Tax Data request or updates
+Please run the belpw query in TAP PROD,One Tax Data request or updates
+Please run the cut over script in PROD for missing PO ,One Tax Data request or updates
+Please run the query in TAP PROD SQL,One Tax Data request or updates
+Please run these 2 queries in TAP UAT cluster,One Tax Data request or updates
+Please share vertex /non vertex small files from TAP UAT ,One Tax Data request or updates
+Request for access to the TAP - User Audit Rule configuration to Melvin Pereira,One Tax Data request or updates
+Request for counts of DTE01 tables from PROD server : dbTAPCFS,One Tax Data request or updates
+Request for GSTExtract Audit HQLs from UAT | Bug Fix Test,One Tax Data request or updates
+"Request for India sales for April 1, 2011 through March 31, 2012",One Tax Data request or updates
+Request for MSRA refresh in OneTax UAT,One Tax Data request or updates
+Request for result for the below queries,One Tax Data request or updates
+Request to copy the files from UAT,One Tax Data request or updates
+Request to disable UserAudit schedule in TAP PROD,One Tax Data request or updates
+Request to load files in TAP UAT region,One Tax Data request or updates
+Request to restart AuditFunction app in TAP UAT,One Tax Data request or updates
+Run query in tap uat ,One Tax Data request or updates
+Run the below query in TAP UAT cluster and share results,One Tax Data request or updates
+Run the hql queries in TAP UAT,One Tax Data request or updates
+Running Qeuries in TAP UAT Cluster,One Tax Data request or updates
+Storage accounts in OneTax UAT resource group,One Tax Data request or updates
+"Provide data for UserAuditRuleDetailFilterColumns, UserAuditRuleDetails from UAT",One Tax Data request or updates
+Queries for analyzing UAT EFMD Issue,One Tax Data request or updates
+Query status in UAT Data Lake viewer ,One Tax Data request or updates
+"Distinct count for Jan , Feb and Mar 2019 address distinct records -2nd set",One Tax Data request or updates
+"Distinct records for jan,feb and march 2019",One Tax Data request or updates
+Data  Size from production,One Tax Data request or updates
+DTE01 Table counts from PROD dbTAPCFS Server,One Tax Data request or updates
+Execute the User Audit Query in UAT,One Tax Data request or updates
+EXRATE02MonthlyExchangeRate data from onetax cfs uat,One Tax Data request or updates
+Fact and summary required data,One Tax Data request or updates
+FactSchema update,One Tax Data request or updates
+February Month  Missing Values Update From SAP,One Tax Data request or updates
+GSTExtractReport data from UAT for testing,One Tax Data request or updates
+GSTExtractReport Insert Overwrite table into DIT region from UAT,One Tax Data request or updates
+FW: Please run below 2 queries in tap uat cluster ,One Tax Data request or updates
+FW: New Schedule timings of PROD sync  job,One Tax Data request or updates
+Azure: Activated Severity: 0 DailyCFSDelta Failure Monitor,Pipeline failures
+Azure: Activated Severity: 3 Autoscaling job on TAP PROD cluster failed,Pipeline failures
+Azure: Activated Severity: 3 Dart Adhoc Pipeline Failure Alert,Pipeline failures
+Azure: Deactivated Severity: 0 DailyCFSDelta Failure Monitor,Pipeline failures
+Azure: Deactivated Severity: 3 Autoscaling job on TAP PROD cluster failed,Pipeline failures
+Azure: Deactivated Severity: 3 Dart Adhoc Pipeline Failure Alert,Pipeline failures
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+ARMONETAXDB - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDB - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - SQL Server Agent service stopped,Space issues or server Alerts
+AZSK alerts : We've temporarily paused your Azure email notifications,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space on ARMONETAXDBUAT,Space issues or server Alerts
+Low free space on ARMONETAXDBUAT,Space issues or server Alerts
+SQL Server PolyBase failed on ARMOneTaxdb,Space issues or server Alerts
+SQL Server PolyBase failed on ARMONETAXDBUAT,Space issues or server Alerts
+Security Bugs Approaching SLA for OneTax,Space issues or server Alerts
+SharedVertexGroup Servers LowDiskSpace Alert,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Alerts for dbtaphdimeta,Space issues or server Alerts
+Alerts on TDW PROD Reporting UI,Space issues or server Alerts
+FW: System Account Expiration Notification For 3/9/2019,Space issues or server Alerts
+FW: System Account Expiration Notification For 4/12/2019,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+FW: Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+FW: Vertex Production Sync & Restart (RITM0943989),Vertex Sync and Restart
+FW: Vertex Production Sync/Restart ,Vertex Sync and Restart
+FW: Vertex Sync/Restart - UAT,Vertex Sync and Restart
+FW: Vertex Sync/Restart - UAT (RITM0935517),Vertex Sync and Restart
+FW: Vertex Sync/Restart - UAT Reference Ticket: RITM0935517,Vertex Sync and Restart
+FW: Vertex tenant sync & restart,Vertex Sync and Restart
+FW: Vertex Tenant test  Sync & Restart,Vertex Sync and Restart
+FW: Vertex UAT Environment- Sync & Restart Request ,Vertex Sync and Restart
+FW: Vertex UAT Restart,Vertex Sync and Restart
+FW: Vertex UAT Sync & Restart,Vertex Sync and Restart
+FW: Vertex UAT Sync & Restart (INC22017961),Vertex Sync and Restart
+FW: Vertex UAT Sync & Restart (RITM0918409 & RITM0943907),Vertex Sync and Restart
+FW: Vertex UAT Sync & Restart (RITM0935722),Vertex Sync and Restart
+FW: Vertex UAT Sync & Restart (RITM0936270),Vertex Sync and Restart
+FW: Vertex UAT Sync & Restart (RITM0945765),Vertex Sync and Restart
+FW: Vertex UAT Sync & Restart-12/03-8AM IST,Vertex Sync and Restart
+FW: Vertex UAT Sync and Restart Request,Vertex Sync and Restart
+FW: Vertex UAT Sync and Restart request_INC22141595,Vertex Sync and Restart
+FW: Restart of TT and Sync/Restart of UAT-14Mar8:45AM,Vertex Sync and Restart
+FW: Sync / Restart Request-TT & UAT-15Mar6AM,Vertex Sync and Restart
+FW: Sync/Restart ,Vertex Sync and Restart
+FW: Sync/Restart Request,Vertex Sync and Restart
+FW: Sync/Restart Tennant Test/UAT,Vertex Sync and Restart
+FW: UAT Restart,Vertex Sync and Restart
+FW: UAT Sync and Restart Request,Vertex Sync and Restart
+FW: RITM0935517 - UAT Vertex Sync Request,Vertex Sync and Restart
+AcquireLotusBIEBingAds Job Run,Lotus BI Requests
+AcquireLotusBIEBingAds Job Run ,Lotus BI Requests
+AcquireLotusBIEFactory Failure Due To MBS Source Data Issue,Lotus BI Requests
+AcquireLotusBIEFactory Job Failure In Production,Lotus BI Requests
+LotusBIEARReportJob Jon Run From 1st Feb ,Lotus BI Requests
+"Access to ""onetaxdit.database.windows.net""",Access requests
+Access to dbTAPMeta database/server in UAT and PROD environment,Access requests
+Access to shared drives for new employee,Access requests
+Access to TDW,Access requests
+REQUEST:  Please add new employee to file shares with Read/Write access - ,Access requests
+REQUEST:  Please add new employee to file shares with Read/Write access - Sualee,Access requests
+Read Access for UAT/PROD Cluster for CFS ,Access requests
+Password Renewal,Access requests
+CorpTax - reset password,Access requests
+Corptax Access,Access requests
+Corptax Users to Disable,Access requests
+FW: Password reset,Access requests
+FW: Password Reset for Dawn (RITM0907704),Access requests
+FW: Password Reset Vertex TT v-rofar,Access requests
+FW: ECM DB Access in UAT,Access requests
+A potentially harmful application 'Nmap NSE' attempted to access server 'onetax',Invalid Login or attempts
+A potentially harmful application 'Nmap NSE' attempted to access server 'rwmjsmmkod',Invalid Login or attempts
+A potentially harmful application 'Nmap NSE' attempted to access server 'w5mlzo7zke',Invalid Login or attempts
+Azure Database: An unfamiliar principal successfully logged on to SQL server 'onetax',Invalid Login or attempts
+Azure Database: An unfamiliar principal successfully logged on to SQL server 'rwmjsmmkod',Invalid Login or attempts
+Azure Database: An unfamiliar principal successfully logged on to SQL server 'w5mlzo7zke',Invalid Login or attempts
+Azure Database: Someone has logged on to your server 'onetax' from an unusual location,Invalid Login or attempts
+Azure Database: Someone has logged on to your server 'rwmjsmmkod' from an unusual location,Invalid Login or attempts
+Azure Database: Someone has logged on to your server 'w5mlzo7zke' from an unusual location,Invalid Login or attempts
+Fwd: Azure Database: Someone has logged on to your server 'onetax' from an unusual location,Invalid Login or attempts
+Fwd: Azure SQL Server auditing failure on 'rwmjsmmkod' server,Invalid Login or attempts
+[PROD] Sev 4: ID 115639314: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - 1b0fed6644644d6996ca11542784457b,GDPR Tickets
+[PROD] Sev 4: ID 115640281: GDPR DSR Request: One Tax - Export - CustomerContact - 1b0fed6644644d6996ca11542784457b,GDPR Tickets
+Fw: [PROD] Sev 4: ID 109670697: GDPR DSR Request: One Tax - Export - CustomerContact - 45092aeb71134fa19a45a1669ca72616,GDPR Tickets
+Fw: [PROD] Sev 4: ID 109672464: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - 45092aeb71134fa19a45a1669ca72616,GDPR Tickets
+FW: [PROD] Sev 4: ID 109855686: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - 930731304d5943f1819ebf7a5b4b1c19,GDPR Tickets
+FW: [PROD] Sev 4: ID 109861552: GDPR DSR Request: One Tax - Export - CustomerContact - 930731304d5943f1819ebf7a5b4b1c19,GDPR Tickets
+Fw: [PROD] Sev 4: ID 110119784: GDPR DSR Request: One Tax - Export - CustomerContact - ed5c83005abf4d12932785c6983af094,GDPR Tickets
+Fw: [PROD] Sev 4: ID 110120462: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - ed5c83005abf4d12932785c6983af094,GDPR Tickets
+Fw: [PROD] Sev 4: ID 111493235: GDPR DSR Request: One Tax - Export - CustomerContact - 3e1209c8c09445dbab0eb39019f866c2,GDPR Tickets
+Fw: [PROD] Sev 4: ID 111493354: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - 3e1209c8c09445dbab0eb39019f866c2,GDPR Tickets
+Fw: [PROD] Sev 4: ID 111493936: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - 8e82ae21bf234cd18a092977fce5d996,GDPR Tickets
+Fw: [PROD] Sev 4: ID 111494323: GDPR DSR Request: One Tax - Export - CustomerContact - 8e82ae21bf234cd18a092977fce5d996,GDPR Tickets
+FW: [PROD] Sev 4: ID 112233701: GDPR DSR Request: One Tax - Export - CustomerContact - b310a6ebad804dbe9d22dfdbd0e3943e,GDPR Tickets
+FW: [PROD] Sev 4: ID 112234066: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - b310a6ebad804dbe9d22dfdbd0e3943e,GDPR Tickets
+FW: [PROD] Sev 4: ID 114750153: GDPR DSR Request: One Tax - Export - CustomerContact - 06339be0bc82469aab1ead17e2e97d06,GDPR Tickets
+FW: [PROD] Sev 4: ID 114758297: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - 06339be0bc82469aab1ead17e2e97d06,GDPR Tickets
+FW: [PROD] Sev 4: ID 115508001: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - f58bc16f398d450c902370e610a451f3,GDPR Tickets
+FW: [PROD] Sev 4: ID 115508440: GDPR DSR Request: One Tax - Export - CustomerContact - f58bc16f398d450c902370e610a451f3,GDPR Tickets
+Fw: [PROD] Sev 4: ID 115626642: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - 4da319e0e30f4e80883f72d6c758f271,GDPR Tickets
+FW: [PROD] Sev 4: ID 115639314: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - 1b0fed6644644d6996ca11542784457b,GDPR Tickets
+FW: [PROD] Sev 4: ID 115640281: GDPR DSR Request: One Tax - Export - CustomerContact - 1b0fed6644644d6996ca11542784457b,GDPR Tickets
+FW: [PROD] Sev 4: ID 115643023: GDPR DSR Request: One Tax - Export - CustomerContact - 4da319e0e30f4e80883f72d6c758f271,GDPR Tickets
+FW: [PROD] Sev 4: ID 117001397: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - 586e73bf8b904309adc98558fda610d3,GDPR Tickets
+Fwd: Severity upgrade: [PROD] Sev 3: ID 114750153: GDPR DSR Request: One Tax - Export - CustomerContact - 06339be0bc82469aab1ead17e2e97d06,GDPR Tickets
+Fwd: Severity upgrade: [PROD] Sev 3: ID 114758297: GDPR DSR Request: Tax Data Warehouse - Export - CustomerContact - 06339be0bc82469aab1ead17e2e97d06,GDPR Tickets
+<please ensure your availability>: INC22043801: Counts of DTE01 tables from PROD server : dbTAPCFS,Data Issues
+PO#0080112069 Missing In The PO Report,Data Issues
+PO#0098785103 Missing Line Items In The PO Report,Data Issues
+PricingConditionItem Missing Data Pull Into Factory,Data Issues
+Bug 4307135 - PROD: Record count mismatch for SDMN01SAPStateProvince after FeedStore delta run for month close,Data Issues
+Bug 4359698 : SALE01AccountingDocumentItem data mismatch between SQL and Hive in TAP CFS in PROD,Data Issues
+Bug 4359698 : SALE01AccountingDocumentItem data mismatch between SQL and Hive in TAP CFS in UAT,Data Issues
+DataMall - Daily records with Delete and Update records count in delta tables ,Data Issues
+"FW: INC21732760 -  EC VL -ORDERS FAILED AT SAP, PLEASE RE-SUBMIT IF NEEDED - GUIDs Failed with VERTEX issue",Data Issues
+Issue 4422411 - TAP UAT : Unable to retrieve count for telco tables,Data Issues
+FW: INFORM: RITM0905576 for Vertex Access Request has been updated,Data Issues
+FW: Issues in calling Vertex API in PROD,Data Issues
+Action Requested: MQR19 BPRT --- DART JOBS --- Targeted completion date: 4/25,Regular Activities
+All customer payloads from CIP into RMCA being rejected with internal server error response,Regular Activities
+UAT TAP: To clear the Redis Cache ,Regular Activities
+UAT TPE Report for 201902 Reporting Period,Regular Activities
+UAT: OneTax : Not able to run MSRA report,Regular Activities
+UAT: OneTax : Point Direct perspective to old(OneTax) cluster.,Regular Activities
+UAT: Onetax: switch EMEA-VAT historical perspective & OneTaxUI Telco reports to OneTax cluster,Regular Activities
+UAT: OneTax: TAP Dart monthly process for FY19 FM08(Period 201902). ,Regular Activities
+UAT: OneTax: TAP: Mart activity failed,Regular Activities
+UAT: Point OneTax UI Telco Reports and MSRA EMEAVAT Perspective to OneTax Cluster,Regular Activities
+UAT OneTax: Terminate the transform process for FeedLoad 13388,Regular Activities
+UAT OneTax: Update PII module to S3 plan and trigger PII schedule,Regular Activities
+UAT OneTax-TAP - Mart process failed in ADB test mode,Regular Activities
+UAT OneTax-TAP: Request to update ISA.AuditQueries table,Regular Activities
+UAT OneTax-TAP: UST Modern sales file is in transform failed state,Regular Activities
+UAT OneTax-TAP: Validate the mart data between mart hive tables and ADB mart tables (_db),Regular Activities
+UAT TAP CFS Cluster Hive Query,Regular Activities
+UAT TAP: Execute and commit below query on W5MLZO7ZKE.DATABASE.WINDOWS.NET server,Regular Activities
+UAT TAP: Pause daily pipelines,Regular Activities
+UAT TAP: Remart from swagger does not appear to be working,Regular Activities
+UAT TAP: Run update query on server W5MLZO7ZKE.DATABASE.WINDOWS.NET,Regular Activities
+UAT : OneTax : Process payroll files in TAP UAT.,Regular Activities
+UAT : OneTax : Process Treasury files in TAP UAT.,Regular Activities
+UAT : OneTax TAP: Monitor TPE ,Regular Activities
+UAT : OneTax: TAP : run update metadata ISA.AuditQueries,Regular Activities
+UAT : OneTax: TAP : Run update metadata ISA.AuditQueries - SourceQuery,Regular Activities
+UAT : TAP : OneTax :  Restart Mart function app,Regular Activities
+UAT MSRA 'EMEAVAT-Historical' Perspective,Regular Activities
+UAT OneTax: Clear ProcessedBillingData for 201902 in UAT,Regular Activities
+UAT OneTax: Clear ProcessedBillingData for 201903,Regular Activities
+UAT OneTax: Clear ProcessedBillingData for 201903,Regular Activities
+UAT OneTax: Close ReportingPeriod 201902,Regular Activities
+UAT OneTax: Drop customer PII tables in TAP UAT environment,Regular Activities
+UAT OneTax: Enable EFMD pipelines in UAT cluster,Regular Activities
+UAT OneTax: Open ReportingPeriod 201903,Regular Activities
+UAT OneTax: Reopen the previously closed month 201902,Regular Activities
+UAT OneTax: Request to update the keyvault entries to enable mart process in ADB test mode,Regular Activities
+UAT OneTax: Request to update the keyvault entries to enable mart process in hive mode,Regular Activities
+TAPMETA db backup for 7th and 8th March 2019,Regular Activities
+TAP-UAT: Initiate Dart monthly process for FY19 FM07(Period 201901). ,Regular Activities
+TDW PROD March Reports,Regular Activities
+TDW PROD Reporting UI Scale Up,Regular Activities
+TDW PROD User Report Detail,Regular Activities
+TDW WA Sales Data Request for period of June 2010 to June 2017,Regular Activities
+Transform file stuck InProgress state - Production region,Regular Activities
+Troubleshoot PROD Issue:Tap,Regular Activities
+TAP/OneTax Sprint 1901.2 Patch-3 UAT Deployment ,Regular Activities
+TAP/OneTax Sprint 1902.2 Patch-2 UAT Deployment ,Regular Activities
+TAP UAT - Run Sirius FEC pipeline for 201812 ,Regular Activities
+TAP UAT - Update fact metadata for NumberofTaxedLines,Regular Activities
+TAP UAT & PROD: Query failed in Both TAP UAT and TAP PROD,Regular Activities
+TAP UAT Marting seems stuck,Regular Activities
+TAP UAT OneTax: Run update metadata ISA.AuditQueries,Regular Activities
+TAP UAT OneTax: Run update metadata ISA.AuditQueries,Regular Activities
+TAP UAT OneTax: Run update metadata ISA.AuditQueries,Regular Activities
+TAP UAT Telco data processing for Period 201901,Regular Activities
+TAP UAT Telco data processing for Period 201902,Regular Activities
+TAP UAT:  Queries timed out ,Regular Activities
+TAP UAT: EFMD Pipeline is failing,Regular Activities
+TAP UAT: Inactivate 7 UseTax sources,Regular Activities
+TAP UAT: Lock and Finalize month features are not working,Regular Activities
+TAP UAT: Mark GLPostingDate as 'Required' and 'DataRequired',Regular Activities
+TAP UAT: Mark GLPostingDate as 'Required' and 'DataRequired' for UseTax Sources,Regular Activities
+TAP UAT: MSSalesExchangeRateResultORC table miss data for April month.,Regular Activities
+TAP UAT: Update Audit Queries for testing TPE insterstage audit,Regular Activities
+TAP PROD - TAP CFS delta & Sirius pipelines schedule changes,Regular Activities
+TAP PROD TPE - Please Monitor,Regular Activities
+TAP PROD TPE (Final) - Please Hold off jobs,Regular Activities
+TAP PROD: assign to BusinessUser role,Regular Activities
+TAP PROD: Finalize Month failed,Regular Activities
+TAP PROD: Finalize Month failed,Regular Activities
+TAP PROD: Inactivate 7 UseTax sources,Regular Activities
+TAP Sprint 1812.2 Hot Fix-2 UAT Deployment ,Regular Activities
+TAP Sprint 1902.2 Patch-1 UAT Deployment ,Regular Activities
+SAP Telco data validation for 2019 March in Prod <<EOM>> ,Regular Activities
+SAP Telco data validation for 2019March Month ,Regular Activities
+SAP Telco prod data analysis,Regular Activities
+Scale Up Nodes to 60/Disable daily jobs,Regular Activities
+Scale Up Nodes to 60/Disable daily jobs,Regular Activities
+Scale Up Nodes to 60/Disable daily jobs,Regular Activities
+Scale Up Nodes to 60/Disable daily jobs,Regular Activities
+Prod OneTax: Terminate the transform process for FeedLoad 11637 in PROD.,Regular Activities
+PROD OneTax: UST File Processing issues for March Close,Regular Activities
+PROD OneTax-TAP:  Request to change the schedule of TAPMonthlyExchangeRate_MSSales Pipeline to run on Day 2 @ 6 am every month,Regular Activities
+PROD OneTax-TAP: Please run the attached scrip to update the ISA.AuditQueries table,Regular Activities
+PROD OneTax-TAP: Update SO.FactSchema metadata table ,Regular Activities
+PROD: OneTax - Mercury/Dart Monthly process for FM08 FY19,Regular Activities
+PROD: OneTax - Mercury/Dart Monthly process for FM09 FY19,Regular Activities
+PROD: OneTax: Populate QuantumSAPGeoCodesORC table in TAP.,Regular Activities
+Production : Row count Mismatch in tables TelcoORCLake and InternationalVATORCPBLake,Regular Activities
+Production-RTM-Nodes Scaled at 75/ Disabled daily jobs,Regular Activities
+OneTax PROD - Reprocess SAP Telco Feb 2019 data,Regular Activities
+OneTax PROD : UST Telco monthly processing for Feb 2019,Regular Activities
+OneTax PROD : UST Telco monthly processing for March 2019,Regular Activities
+OneTax PROD: Changes to ISA.AuditQueries table,Regular Activities
+OneTax PROD: Cluster performance in TAP PROD environment,Regular Activities
+OneTax Prod: Count comparison for EFMD tables from CFS v1,Regular Activities
+OneTax Prod: Feedloadid 11740 is stuck in transform stage,Regular Activities
+OneTax Prod: Feedstore files are stuck in 'Cleanup Source' activity,Regular Activities
+OneTax Prod: Feedstore files are stuck in 'Cleanup Source' activity,Regular Activities
+OneTax UAT: EFMD back up and restore from Prod to UAT,Regular Activities
+OneTax UAT: Feedstore file is stuck in 'Cleanup Source' activity,Regular Activities
+OneTax UAT: To close month of 201902,Regular Activities
+PII Testing in UAT,Regular Activities
+April Month-close plan/monitoring,Regular Activities
+Audit HQL from UAT,Regular Activities
+Audit queries update TAP UAT region,Regular Activities
+Azure Tags - Tax,Regular Activities
+BusinessUserAudit testing in TAP UAT,Regular Activities
+Domain Tables Refresh,Regular Activities
+Domain Tables Refresh - Published date changes,Regular Activities
+Deploy the changes for Bug 4359664 in UAT,Regular Activities
+Direct/Telco Migration Steps needs to be performed in UAT,Regular Activities
+FW: Full Updated Vertex 7.0 (184) files,Regular Activities
+FW: Full Updated Vertex 7.0 (185) files,Regular Activities
+FW: Full Updated Vertex 7.0 (186) files,Regular Activities
+FW: Vertex Config Files,Regular Activities
+FW: Vertex for PROD ,Regular Activities
+FW: Vertex Monthly Update 185d RTE extract - RETAIL,Regular Activities
+FW: Vertex Password Reset_RITM0929621,Regular Activities
+FW: Vertex Production ,Regular Activities
+FW: Vertex- RTE Extract for Retail for April 2019 - Update 185.0,Regular Activities
+FW: Vertex Sandbox - 184 Updates,Regular Activities
+FW: Vertex Shared Instance - RITM0931708,Regular Activities
+Migration - MSRA/OneTax pointing to TAP PROD - Heads-up,Regular Activities
+Migration of Reporting Tool,Regular Activities
+MSRA PII performance testing,Regular Activities
+MSRA Report status,Regular Activities
+MSRA sirius columns data,Regular Activities
+March Month  Missing Values Update From SAP,Regular Activities
+Load UST Modern small file from PROD to UAT by appending file name with PII ,Regular Activities
+Location of shared location on VM for UAT,Regular Activities
+Fwd: TAP UAT & PROD: Query failed in Both TAP UAT and TAP PROD,Regular Activities
+Fwd: TDW PROD UI,Regular Activities
+FY19 Q3 Readiness Checkpoint - Shared Vertex,Regular Activities
+FW: Tax Data Export failing in Sandbox,Regular Activities
+FW: UAT TAP: Remart from swagger does not appear to be working,Regular Activities
+FW: Sandbox environment- Vertex: Monthly Updates #186d - Indirect Tax O Series-,Regular Activities
+FW: OneTax PROD: Changes to ISA.AuditQueries table,Regular Activities
+FW: Mandatory Security Updates March 2019,Regular Activities
+FW: Onetax and TAP Sprint 1901-1 and 1901-2 PROD Deployment,Regular Activities
+[Critical Situation Summary 1] Microsoft | 119031924000463,Critical tickets
+[Critical Situation Summary 2] Microsoft | 119031924000463,Critical tickets
+[Critical Situation Summary 3] Microsoft | 119031924000463,Critical tickets
+Microsoft Critical Situation  - Microsoft?-?119031924000463 - sev A,Critical tickets
+Microsoft Critical Situation  - Microsoft?-?119031924000463 - sev A ,Critical tickets
+Microsoft Critical Situation Handover Notification - Microsoft?-?119031924000463?,Critical tickets
+Critical Situation Severity Reduction Summary | Microsoft | 119031924000463,Critical tickets
+Microsoft Critical Situation Handover Notification - Microsoft?-?119031924000463?,Critical tickets
+Microsoft Critical Situation Handover Notification - Microsoft?-?119031924000463?,Critical tickets
+Microsoft Critical Situation Handover Notification - Microsoft?-?119031924000463?,Critical tickets
+Microsoft Critical Situation Handover Notification - Microsoft?-?119031924000463?,Critical tickets
+Microsoft Critical Situation Handover Notification - Microsoft?-?119031924000463?,Critical tickets
+FW: Mandatory Security Updates March 2019,Regular Activities
+Sprint 1903 UAT deployment review,Important Notifications or Meet
+Sprint 1903 UAT deployment review,Important Notifications or Meet
+Databrick Test Automation walk through,Important Notifications or Meet
+Databricks and test automation walk through,Important Notifications or Meet
+FW: TAP & OneTax 1901-1 and 1901-2 PROD deployment game plan review,Important Notifications or Meet
+Please run the cut over script in PROD for missing PO ,One Tax Data request or updates
+Please run the cut over script in PROD for missing PO ,One Tax Data request or updates
+Request to copy the files from UAT,One Tax Data request or updates
+Azure: Activated Severity: 0 DailyCFSDelta Failure Monitor,Pipeline failures
+Azure: Activated Severity: 3 Autoscaling job on TAP PROD cluster failed,Pipeline failures
+Azure: Activated Severity: 3 Autoscaling job on TAP PROD cluster failed,Pipeline failures
+Azure: Activated Severity: 3 Dart Adhoc Pipeline Failure Alert,Pipeline failures
+Azure: Activated Severity: 3 Dart Adhoc Pipeline Failure Alert,Pipeline failures
+Azure: Activated Severity: 3 Dart Adhoc Pipeline Failure Alert,Pipeline failures
+Azure: Activated Severity: 3 Dart Adhoc Pipeline Failure Alert,Pipeline failures
+Azure: Deactivated Severity: 0 DailyCFSDelta Failure Monitor,Pipeline failures
+Azure: Deactivated Severity: 3 Autoscaling job on TAP PROD cluster failed,Pipeline failures
+Azure: Deactivated Severity: 3 Autoscaling job on TAP PROD cluster failed,Pipeline failures
+Azure: Deactivated Severity: 3 Dart Adhoc Pipeline Failure Alert,Pipeline failures
+Azure: Deactivated Severity: 3 Dart Adhoc Pipeline Failure Alert,Pipeline failures
+Azure: Deactivated Severity: 3 Dart Adhoc Pipeline Failure Alert,Pipeline failures
+Azure: Deactivated Severity: 3 Dart Adhoc Pipeline Failure Alert,Pipeline failures
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: Less Disk Space Remaining (<15%),Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+Alert: VMs Missing Security Updates,Space issues or server Alerts
+ARMONETAXDB - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDB - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDB - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDB - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDB - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDB - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDB - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDB - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDB - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDB - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDB - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDB - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDB - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDB - SQL Server Agent service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - Polybase data movement service stopped,Space issues or server Alerts
+ARMONETAXDBUAT - SQL Server Agent service stopped,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+Low free space in Server ARMONETAXDB,Space issues or server Alerts
+SQL Server PolyBase failed on ARMOneTaxdb,Space issues or server Alerts
+SQL Server PolyBase failed on ARMONETAXDBUAT,Space issues or server Alerts
+SQL Server PolyBase failed on ARMOneTaxdb,Space issues or server Alerts
+SQL Server PolyBase failed on ARMONETAXDBUAT,Space issues or server Alerts
+SQL Server PolyBase failed on ARMOneTaxdb,Space issues or server Alerts
+SQL Server PolyBase failed on ARMONETAXDBUAT,Space issues or server Alerts
+SQL Server PolyBase failed on ARMOneTaxdb,Space issues or server Alerts
+SQL Server PolyBase failed on ARMONETAXDBUAT,Space issues or server Alerts
+SQL Server PolyBase failed on ARMOneTaxdb,Space issues or server Alerts
+SQL Server PolyBase failed on ARMONETAXDBUAT,Space issues or server Alerts
+SQL Server PolyBase failed on ARMOneTaxdb,Space issues or server Alerts
+SQL Server PolyBase failed on ARMONETAXDBUAT,Space issues or server Alerts
+SQL Server PolyBase failed on ARMOneTaxdb,Space issues or server Alerts
+SQL Server PolyBase failed on ARMONETAXDBUAT,Space issues or server Alerts
+SharedVertexGroup Servers LowDiskSpace Alert,Space issues or server Alerts
+SharedVertexGroup Servers LowDiskSpace Alert,Space issues or server Alerts
+SharedVertexGroup Servers LowDiskSpace Alert,Space issues or server Alerts
+SharedVertexGroup Servers LowDiskSpace Alert,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Critical: OneTax Application ClietKey Expire Alert...! ,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+Important notice: Azure Monitor alert Change in PROD TAP Keyvault value was activated,Space issues or server Alerts
+FW: Vertex Sync/Restart - UAT,Vertex Sync and Restart
+FW: Vertex Sync/Restart - UAT,Vertex Sync and Restart
+FW: Vertex Sync/Restart - UAT,Vertex Sync and Restart
+FW: Vertex Sync/Restart - UAT,Vertex Sync and Restart
+FW: Vertex UAT Environment- Sync & Restart Request ,Vertex Sync and Restart
+FW: Vertex UAT Environment- Sync & Restart Request ,Vertex Sync and Restart
+FW: Vertex UAT Environment- Sync & Restart Request ,Vertex Sync and Restart
+FW: Vertex UAT Environment- Sync & Restart Request ,Vertex Sync and Restart
+FW: Vertex UAT Environment- Sync & Restart Request ,Vertex Sync and Restart
+FW: Vertex UAT Environment- Sync & Restart Request ,Vertex Sync and Restart
+FW: Vertex UAT Restart,Vertex Sync and Restart
+FW: Vertex UAT Restart,Vertex Sync and Restart
+FW: Vertex UAT Restart,Vertex Sync and Restart
+FW: Vertex UAT Restart,Vertex Sync and Restart
+FW: Vertex UAT Restart,Vertex Sync and Restart
+FW: Vertex UAT Restart,Vertex Sync and Restart
+FW: Vertex UAT Restart,Vertex Sync and Restart
+FW: Vertex UAT Sync & Restart,Vertex Sync and Restart
+FW: Vertex UAT Sync & Restart,Vertex Sync and Restart
+FW: Vertex UAT Sync & Restart,Vertex Sync and Restart
+FW: Vertex UAT Sync & Restart,Vertex Sync and Restart
+FW: Vertex UAT Sync and Restart Request,Vertex Sync and Restart
+FW: Vertex UAT Sync and Restart Request,Vertex Sync and Restart
+FW: Vertex UAT Sync and Restart Request,Vertex Sync and Restart
+FW: Vertex UAT Sync and Restart Request,Vertex Sync and Restart
+FW: Vertex UAT Sync and Restart Request,Vertex Sync and Restart
+FW: UAT Sync and Restart Request,Vertex Sync and Restart
+FW: RITM0935517 - UAT Vertex Sync Request,Vertex Sync and Restart
+Corptax Access,Access requests
+Corptax Access,Access requests
+Corptax Access,Access requests
+Azure Database: An unfamiliar principal successfully logged on to SQL server 'rwmjsmmkod',Invalid Login or attempts
+Azure Database: Someone has logged on to your server 'onetax' from an unusual location,Invalid Login or attempts
+Azure Database: Someone has logged on to your server 'onetax' from an unusual location,Invalid Login or attempts
+Azure Database: Someone has logged on to your server 'onetax' from an unusual location,Invalid Login or attempts
+PricingConditionItem Missing Data Pull Into Factory,Data Issues
+UAT : OneTax : Process payroll files in TAP UAT.,Regular Activities
+UAT : OneTax: TAP : run update metadata ISA.AuditQueries,Regular Activities
+UAT : OneTax: TAP : run update metadata ISA.AuditQueries,Regular Activities
+UAT : OneTax: TAP : run update metadata ISA.AuditQueries,Regular Activities
+UAT : OneTax: TAP : run update metadata ISA.AuditQueries,Regular Activities
