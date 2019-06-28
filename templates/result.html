@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+			ML App
+		</div>
+		<h2></h2>
+		
+	</div>
+	</header>
+	{{accscore}}
+	<p style="color:blue;font-size:20;text-align: center;"><b>The Ticket description you have entered is related to below category : </b></p>
+	<div class="results">
+
+
+		
+	{% if prediction == 0%}
+	<h2 style="color:red;">Access requests with</h2>
+	{% elif prediction == 1%}
+	<h2 style="color:blue;">Critical tickets</h2>
+	{% elif prediction == 2%}
+	<h2 style="color:blue;">Data Issues</h2>
+	{% elif prediction == 3%}
+	<h2 style="color:blue;">GDPR Tickets</h2>
+	{% elif prediction == 4%}
+	<h2 style="color:blue;">Important Notifications or Meet</h2>
+	{% elif prediction == 5%}
+	<h2 style="color:blue;">Invalid Login or attempts</h2>
+	{% elif prediction == 6%}
+	<h2 style="color:blue;">Lotus BI Requests</h2>
+	{% elif prediction == 7%}
+	<h2 style="color:blue;">One Tax Data request or updates</h2>
+	{% elif prediction == 8%}
+	<h2 style="color:blue;">Pipeline failures</h2>
+	{% elif prediction == 9%}
+	<h2 style="color:blue;">Regular Activities</h2>
+	{% elif prediction == 10%}
+	<h2 style="color:blue;">Space issues or server Alerts</h2>
+	{% elif prediction == 11%}
+	<h2 style="color:blue;">Vertex Sync and Restart</h2>
+	{% endif %}
+
+	</div>
+
+</body>
+</html>
