@@ -143,22 +143,9 @@ from sklearn.metrics import f1_score
 #print("Accuracy score", f1_score(y_test, y_pred, average='micro'))
 
 @app.route('/')
-def home():
-	return render_template('home.html')
-
-@app.route('/predict',methods=['POST'])
-def predict():
-        if request.method == 'POST':
-            MES = request.form['message']
-            data = [MES]
-            vect1 = tfidf.transform(data)
-            my_prediction = model.predict(vect1)[0]
-            score = f1_score(y_test, y_pred, average='micro')
-        return render_template('result_bs.html',prediction = my_prediction,accscore = score)
-
-if __name__ == '__main__':
-	app.run(debug=True, use_reloader=True)
-    
+def hello():
+    return "Hello World!"
+  
     
     
 #SMS = 'Access to "onetaxdit.database.windows.net"'
